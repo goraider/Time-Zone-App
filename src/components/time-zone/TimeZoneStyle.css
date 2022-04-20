@@ -1,0 +1,69 @@
+body {
+    margin:2rem;
+}
+
+.coincidence{
+    cursor: pointer;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.coincidence:hover{
+    background-color: rgb(190, 190, 190);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.form-rounded {
+    border-radius: 1rem;
+}
+.input-search {
+    background-color: rgb(233, 233, 233);
+}
+
+.card-stile{
+    
+    width:100%;
+    border-radius: 10px;
+}
+
+.box-hour {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 235, 235);
+    font-size: medium;
+    border-radius: 10px 10px 10px 10px;
+    
+  }
+.element-box{
+    padding: 5px;
+    width: 8rem;
+    
+}
+
+.time-zone-country {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.time-zone-country:hover,
+.time-zone-country:focus,
+.time-zone-country:active {
+    transform: scale(1.1);
+    border-radius: 10px 10px 10px 10px;
+    transition: .5s ease;
+    background-color: #000;
+    color: white;
+}
+
+
+
+
+
