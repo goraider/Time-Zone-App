@@ -8,6 +8,9 @@ Esta aplicación trata de agregar y comparar las zonas horarias entre los difere
 
 En el directorio del proyecto, puede ejecutar:
 
+### `npm install`
+Ejecuta la instalación de todos los paquetes a utilizar en la aplicación, para su funcionamiento.
+
 ### `npm start`
 Ejecuta la aplicación en el modo de desarrollo.\
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
