@@ -2,7 +2,7 @@
 
 Esta aplicación trata de agregar y comparar las zonas horarias entre los diferentes países del mundo. [Time Zone App](https://github.com/goraider/Time-Zone-App.git).
   
-![TimeZoneApp](https://github.com/goraider/React-In/tree/master/public/screanshot-timezone-app.png)
+![TimeZoneApp](https://github.com/goraider/Time-Zone-App/blob/master/public/screanshot-timezone-app.png)
 
 ## Comandos Disponibles
 
